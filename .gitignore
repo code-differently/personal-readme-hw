@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Temporary files
+*~
+*.swp
