@@ -7,11 +7,11 @@ A personal README that helps others understand how to work with you best. Think 
 ## Requirements
 
 Your personal README must include:
-- ✅ At least **2 pictures**
-- ✅ At least **1 list** (bulleted or numbered)
-- ✅ **Headings** to organize your content (use `#`, `##`, `###`)
-- ✅ At least **300 words** of meaningful content
-- ✅ Keep it **professional** - this could be shared with future employers!
+- At least **2 pictures**
+- At least **1 list** (bulleted or numbered)
+- **Headings** to organize your content (use `#`, `##`, `###`)
+- At least **300 words** of meaningful content
+- Keep it **professional** - this could be shared with future employers!
 
 ## What to Include
 
